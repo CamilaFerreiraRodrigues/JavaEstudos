@@ -5,7 +5,7 @@ import java.util.Date;
 public class Client {
     private  String name;
     private  String email;
-    private Date bithDate;
+    private Date birthDate;
 
     public Client(String name, String email, Date bithDate) {
         this.name = name;
